@@ -6,4 +6,10 @@ public class TestGit {
         System.out.println("aaaaaaa");
         System.out.println("aaaaaaa");
     }
+
+    public void test(){
+        int i=0;
+        i+=100;
+        System.out.println(i);
+    }
 }
