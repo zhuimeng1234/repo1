@@ -11,5 +11,8 @@ public class TestGit {
         int i=0;
         i+=100;
         System.out.println(i);
+        System.out.println(i);
+        System.out.println(i);
+
     }
 }
